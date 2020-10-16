@@ -118,7 +118,7 @@ void loop() {
       _proto.cmdResponse(); // 결과 반응 신호 전송
   }
 
-  _proto.cmdHeartBeat(); // heart beat
+  //_proto.cmdHeartBeat(); // heart beat
   
   //////////////////////////////////////////////////////////////////////////////////////////
   //
