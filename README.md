@@ -3,8 +3,7 @@
 
   
  ![TinyFarmer-Arduino-Shield Intro](https://github.com/makezonefablab/TinyFarmer-Arduino-Shield/blob/master/img/bitmoss_description.png) 
-
- [TinyFarmer_Bitmoss_Sensor Intro](http:////110.10.189.93/mediafarmHome/wp-content/uploads/2016/10/bitmossShield2.png)      
+    
  
 
  
