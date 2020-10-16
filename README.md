@@ -1,11 +1,6 @@
 # TinyFarmer-Arduino-Shield_V2
 타이니파머 비트모스 쉴드 Ver.2
 
-  
- ![TinyFarmer-Arduino-Shield Intro](https://github.com/makezonefablab/TinyFarmer-Arduino-Shield/blob/master/img/bitmoss_description.png) 
-    
- 
-
  
  [*타이니파머 개발관련 카페 - 사이트 바로가기*](http://cafe.naver.com/makezone#)
  
