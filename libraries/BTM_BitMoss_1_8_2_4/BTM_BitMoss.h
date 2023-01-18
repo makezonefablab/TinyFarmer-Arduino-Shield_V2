@@ -109,10 +109,17 @@
 #define SERIAL_BAUD   9600
 
 // ********* Shield IO *********
-#define LED2          A2
-#define LED3          A3
-#define RELAY1        3
-#define RELAY2        8
+#if defined(ESP32)
+  #define LED2          A2
+  #define LED3          A3
+  #define RELAY1        25
+  #define RELAY2        12
+#else
+  #define LED2          A2
+  #define LED3          A3
+  #define RELAY1        3
+  #define RELAY2        8
+#endif
 
 // ********* ETC *********
 #define ACK_TIME      30  // # of ms to wait for an ack
